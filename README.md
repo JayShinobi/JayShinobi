@@ -31,13 +31,13 @@
 
 ### :man_technologist: About Me :
   I am a Full Stack Developer <img src="https://media2.giphy.com/media/pALw8LdftuqAw/giphy.gif" width="30"> based in Las Vegas.
-  - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+  - 🖥: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Cloud Computing and ML.
+- 🦾: Exploring Cloud Computing and ML.
 
-- :zap: In my free time, I am Learning new languages and tools.
+- ⏰: In my free time, I am Learning new languages and tools.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jaymejackson702/)
+- 📲:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jaymejackson702/)
   
   
 
