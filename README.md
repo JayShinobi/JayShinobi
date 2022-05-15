@@ -2,7 +2,7 @@
 #### Im an Software Engineer 👨🏽‍💻
 #### 📍: Las Vegas, NV
 #### Working: #100DEVS 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in)
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in&quoteCategory=motivational)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayShinobi&theme=highcontrast&show_icons=true)](https://github.com/JayShinobi/github-readme-stats)
