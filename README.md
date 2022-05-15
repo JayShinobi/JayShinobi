@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi I'm Jayme 👋 
+#### Im an Software Engineer 🧑🏾‍💻 from Las Vegas, NV📍 Currently working @ #100DEVS 
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayShinobi&theme=highcontrast&show_icons=true)](https://github.com/JayShinobi/github-readme-stats)
 
