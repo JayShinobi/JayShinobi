@@ -2,8 +2,8 @@
   <img src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" width="600" height="300"/>
 </div>
 <div align = "center">
-  ## Hi I'm Jayme 👋🏽
- ### Im an Software Engineer 👨🏽‍💻 based out of 📍: Las Vegas, NV. 100DEVS 
+  ##Hi I'm Jayme 👋🏽
+ ###Im an Software Engineer 👨🏽‍💻 based out of 📍: Las Vegas, NV. 100DEVS 
   
   </div >
   <div id="badges" align = "center">
