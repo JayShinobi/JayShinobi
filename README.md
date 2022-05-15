@@ -31,10 +31,10 @@
   ---
 
 ### :man_technologist: About Me :
-  I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from USA.
+  I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Las Vegas.
   - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring Cloud Computing and ML.
 
 - :zap: In my free time, I am Learning new languages and tools.
 
