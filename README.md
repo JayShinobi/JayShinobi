@@ -1,11 +1,11 @@
 <div align="center">
   <img src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" width="600" height="300"/>
 </div>
-<div>
+<div align = "center">
   Hi I'm Jayme 👋🏽
 Im an Software Engineer 👨🏽‍💻 based out of 📍: Las Vegas, NV. 100DEVS 
   
-  </div>
+  </div align = "center">
   <div id="badges">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
