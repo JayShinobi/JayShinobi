@@ -7,7 +7,6 @@
  
   </h1>
  
-  Im an Software Engineer 👨🏽‍💻 based out of 📍: Las Vegas, NV. 100DEVS 
   
   </div >
   <div id="badges" align = "center">
@@ -28,6 +27,20 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  
+  ---
+
+### :man_technologist: About Me :
+  I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from USA.
+  - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jaymejackson702/)
+  
+  
 
   ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&quoteCategory=motivational)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayShinobi&theme=highcontrast&show_icons=true)](https://github.com/JayShinobi/github-readme-stats)
