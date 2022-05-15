@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayShinobi&theme=Highcontrast&show_icons=true)](https://github.com/JayShinobi/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayShinobi&theme=highcontrast&show_icons=true)](https://github.com/JayShinobi/github-readme-stats)
 
 
 <!--
