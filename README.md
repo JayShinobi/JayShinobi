@@ -16,7 +16,7 @@ Im an Software Engineer 👨🏽‍💻 based out of 📍: Las Vegas, NV. 100DEV
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in&quoteCategory=motivational)
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&quoteCategory=motivational)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayShinobi&theme=highcontrast&show_icons=true)](https://github.com/JayShinobi/github-readme-stats)
