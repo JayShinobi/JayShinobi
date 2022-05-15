@@ -2,8 +2,7 @@
   <img src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" width="600" height="300"/>
 </div>
 
-## Hi I'm Jayme 👋🏽
-#### Im an Software Engineer 👨🏽‍💻
+## Hi I'm Jayme 👋🏽 Im an Software Engineer 👨🏽‍💻 based out of 📍: Las Vegas, NV. #100DEVS 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
@@ -14,8 +13,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 
-#### 📍: Las Vegas, NV
-#### Working: #100DEVS 
+
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in&quoteCategory=motivational)
 
 
