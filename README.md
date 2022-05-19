@@ -28,7 +28,7 @@
   I am a Full Stack Developer <img src="https://media2.giphy.com/media/pALw8LdftuqAw/giphy.gif" width="30"> based in Las Vegas.
   - 🖥: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- 🦾: I am currently sharpening ny skills in node.js and react.js
+- 🔪: I am currently sharpening my skills in node.js and react.js 
 
 - ⏰: In my free time, I am Learning new languages and skills
 
