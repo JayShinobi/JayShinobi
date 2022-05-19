@@ -28,11 +28,13 @@
   I am a Full Stack Developer <img src="https://media2.giphy.com/media/pALw8LdftuqAw/giphy.gif" width="30"> based in Las Vegas.
   - 🖥: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- 🦾: Exploring Cloud Computing and ML.
+- 🦾: I am currently sharpening ny skills in node.js and react.js
 
-- ⏰: In my free time, I am Learning new languages and tools.
+- ⏰: In my free time, I am Learning new languages and skills
 
-- 📲:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jaymejackson702/)
+- 📲:Connect on Linkedin: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jaymejackson702/)
+  
+  
   
   
 
