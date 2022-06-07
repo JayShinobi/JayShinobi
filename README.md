@@ -30,7 +30,7 @@
 
 - 🔪: I am currently sharpening my skills in node.js and react.js 
 
-- ⏰: In my free time, I am Learning new languages and skills
+- ⏰: In my free time, I am building new projects and learning new skills
 
 - 📲:Connect on Linkedin: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jaymejackson702/)
   
