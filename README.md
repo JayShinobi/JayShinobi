@@ -39,7 +39,7 @@
   
 
   ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&quoteCategory=motivational)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayShinobi&theme=highcontrast&show_icons=true)](https://github.com/JayShinobi/github-readme-stats)
+
 
 
 </div>
